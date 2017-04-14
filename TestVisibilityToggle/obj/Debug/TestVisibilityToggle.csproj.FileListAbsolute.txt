@@ -1,0 +1,52 @@
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\TestVisibilityToggle.csprojResolveAssemblyReference.cache
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Raimo Huybrechts\Documents\Visual Studio 2015\Projects\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\TestVisibilityToggle.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\TestVisibilityToggle.pdb
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\TestVisibilityToggle.TestVisibilityToggle.apk
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\TestVisibilityToggle.TestVisibilityToggle-Signed.apk
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\TestVisibilityToggle.dll
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\TestVisibilityToggle.pdb
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\android\bin\TestVisibilityToggle.TestVisibilityToggle.apk
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\res\layout\main.xml
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\res\values\strings.xml
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\res\drawable\icon.png
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\res\values\styles.xml
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\R.cs.flag
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\uploadflags.txt
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\obj\Debug\TestVisibilityToggle.dll.mdb
+C:\Users\Raimo Huybrechts\Desktop\TestVisibilityToggle\TestVisibilityToggle\bin\Debug\TestVisibilityToggle.dll.mdb
